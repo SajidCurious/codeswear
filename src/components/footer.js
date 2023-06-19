@@ -7,11 +7,11 @@ const Footer = () => {
       <footer NameName="text-gray-600 body-font">
         <div className="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
           <div className="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
-            <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
+            <div className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
               <Link href={"/"}>
                 <span className="ml-3 text-xl">CODESWEAR.COM</span>
               </Link>
-            </a>
+            </div>
             <p className="mt-2 px-4 text-sm text-gray-500">
               Air plant banjo lyft occupy retro adaptogen indego
             </p>
