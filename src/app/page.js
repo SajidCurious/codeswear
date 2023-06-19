@@ -7,7 +7,7 @@ export default function Home() {
     <main>
       <Navbar />
       <div>
-        <img src="/home.jpg" alt="" />
+        <img src="/home.jpg" alt="error" className="mx-1" />
       </div>
       <Footer />
     </main>
