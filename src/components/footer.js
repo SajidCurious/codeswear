@@ -9,7 +9,9 @@ const Footer = () => {
           <div className="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
             <div className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
               <Link href={"/"}>
-                <span className="ml-3 text-xl">CODESWEAR.COM</span>
+                <span className="ml-3 text-xl cursor-pointer">
+                  CODESWEAR.COM
+                </span>
               </Link>
             </div>
             <p className="mt-2 px-4 text-sm text-gray-500">
