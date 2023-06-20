@@ -6,20 +6,24 @@ const Navbar = () => {
   return (
     <div className="py-2 flex flex-col md:flex-row items-center md:justify-start">
       <div className="logo">
-        <span className="ml-3 text-xl font-semibold mx-5">CODESWEAR.COM</span>
+        <Link href={"/"}>
+          <span className="ml-3 text-xl font-bold mx-5 cursor-pointer">
+            CODESWEAR.COM
+          </span>
+        </Link>
       </div>
       <div className="nav">
-        <ul className="flex space-x-2 font-bold md:text-xl">
-          <Link href={"/"}>
+        <ul className="flex space-x-2 font-semibold md:text-xl">
+          <Link href={"/tshirts"}>
             <li>Tshirts</li>
           </Link>
-          <Link href={"/"}>
+          <Link href={"/hoodies"}>
             <li>Hoodies</li>
           </Link>
-          <Link href={"/"}>
+          <Link href={"/stickers"}>
             <li>Stickers</li>
           </Link>
-          <Link href={"/"}>
+          <Link href={"/mugs"}>
             <li>Mugs</li>
           </Link>
         </ul>
