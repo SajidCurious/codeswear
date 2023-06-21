@@ -10,11 +10,11 @@ const tshirts = () => {
         <div className="container px-5 py-24 mx-auto">
           <div className="flex flex-wrap -m-4">
             <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
-              <a className="block relative h-48 rounded overflow-hidden">
+              <a className="block relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="object-cover object-center w-full h-full block"
-                  src="https://dummyimage.com/420x260"
+                  className="h-[36vh] block"
+                  src="https://m.media-amazon.com/images/I/61Mw4M+mHwL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4">
@@ -28,11 +28,11 @@ const tshirts = () => {
               </div>
             </div>
             <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
-              <a className="block relative h-48 rounded overflow-hidden">
+              <a className="block relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="object-cover object-center w-full h-full block"
-                  src="https://dummyimage.com/421x261"
+                  className="h-[36vh] block"
+                  src="https://m.media-amazon.com/images/I/61Mw4M+mHwL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4">
@@ -46,11 +46,11 @@ const tshirts = () => {
               </div>
             </div>
             <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
-              <a className="block relative h-48 rounded overflow-hidden">
+              <a className="block relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="object-cover object-center w-full h-full block"
-                  src="https://dummyimage.com/422x262"
+                  className="h-[36vh] block"
+                  src="https://m.media-amazon.com/images/I/61Mw4M+mHwL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4">
@@ -64,11 +64,11 @@ const tshirts = () => {
               </div>
             </div>
             <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
-              <a className="block relative h-48 rounded overflow-hidden">
+              <a className="block relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="object-cover object-center w-full h-full block"
-                  src="https://dummyimage.com/423x263"
+                  className="h-[36vh] block"
+                  src="https://m.media-amazon.com/images/I/61Mw4M+mHwL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4">
@@ -82,11 +82,11 @@ const tshirts = () => {
               </div>
             </div>
             <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
-              <a className="block relative h-48 rounded overflow-hidden">
+              <a className="block relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="object-cover object-center w-full h-full block"
-                  src="https://dummyimage.com/424x264"
+                  className="h-[36vh] block"
+                  src="https://m.media-amazon.com/images/I/61Mw4M+mHwL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4">
@@ -100,11 +100,11 @@ const tshirts = () => {
               </div>
             </div>
             <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
-              <a className="block relative h-48 rounded overflow-hidden">
+              <a className="block relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="object-cover object-center w-full h-full block"
-                  src="https://dummyimage.com/425x265"
+                  className="h-[36vh] block"
+                  src="https://m.media-amazon.com/images/I/61Mw4M+mHwL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4">
@@ -118,11 +118,11 @@ const tshirts = () => {
               </div>
             </div>
             <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
-              <a className="block relative h-48 rounded overflow-hidden">
+              <a className="block relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="object-cover object-center w-full h-full block"
-                  src="https://dummyimage.com/427x267"
+                  className="h-[36vh] block"
+                  src="https://m.media-amazon.com/images/I/61Mw4M+mHwL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4">
@@ -136,11 +136,11 @@ const tshirts = () => {
               </div>
             </div>
             <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
-              <a className="block relative h-48 rounded overflow-hidden">
+              <a className="block relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="object-cover object-center w-full h-full block"
-                  src="https://dummyimage.com/428x268"
+                  className="h-[36vh] block"
+                  src="https://m.media-amazon.com/images/I/61Mw4M+mHwL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4">
