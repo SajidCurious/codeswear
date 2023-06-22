@@ -7,14 +7,14 @@ const mugs = () => {
     <>
       <Navbar />
       <div className="text-gray-600 body-font">
-        <div className="container px-5 py-24 mx-auto">
+        <div className="container px-5 py-10 mx-auto">
           <div className="flex flex-wrap -m-4 mx-auto ">
             <div className="lg:w-1/4 md:w-1/2 p-4 w-full shadow-lg">
               <a className="block object-center relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] lg:pl-24"
-                  src="https://m.media-amazon.com/images/I/41j73+Bq0cL._AC_UL600_FMwebp_QL65_.jpg"
+                  className="m-auto md:m-0"
+                  src="https://m.media-amazon.com/images/I/31BVC4f4vdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4 text-center">
@@ -31,8 +31,8 @@ const mugs = () => {
               <a className="block object-center relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
-                  src="https://m.media-amazon.com/images/I/311BeCtSnaL._AC_UL600_FMwebp_QL65_.jpg"
+                  className="m-auto md:m-0 block object-center"
+                  src="https://m.media-amazon.com/images/I/31BVC4f4vdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4 text-center">
@@ -49,8 +49,8 @@ const mugs = () => {
               <a className="block object-center relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
-                  src="https://m.media-amazon.com/images/I/41j73+Bq0cL._AC_UL600_FMwebp_QL65_.jpg"
+                  className="m-auto md:m-0 block object-center"
+                  src="https://m.media-amazon.com/images/I/31BVC4f4vdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4 text-center">
@@ -67,8 +67,8 @@ const mugs = () => {
               <a className="block object-center relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
-                  src="https://m.media-amazon.com/images/I/41j73+Bq0cL._AC_UL600_FMwebp_QL65_.jpg"
+                  className="m-auto md:m-0 block object-center"
+                  src="https://m.media-amazon.com/images/I/31BVC4f4vdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4 text-center">
@@ -85,8 +85,8 @@ const mugs = () => {
               <a className="block object-center relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
-                  src="https://m.media-amazon.com/images/I/41j73+Bq0cL._AC_UL600_FMwebp_QL65_.jpg"
+                  className="m-auto md:m-0 block object-center"
+                  src="https://m.media-amazon.com/images/I/31BVC4f4vdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4 text-center">
@@ -103,8 +103,8 @@ const mugs = () => {
               <a className="block object-center relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
-                  src="https://m.media-amazon.com/images/I/41j73+Bq0cL._AC_UL600_FMwebp_QL65_.jpg"
+                  className="m-auto md:m-0 block object-center"
+                  src="https://m.media-amazon.com/images/I/31BVC4f4vdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4 text-center">
@@ -121,8 +121,8 @@ const mugs = () => {
               <a className="block object-center relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
-                  src="https://m.media-amazon.com/images/I/41j73+Bq0cL._AC_UL600_FMwebp_QL65_.jpg"
+                  className="m-auto md:m-0 block object-center"
+                  src="https://m.media-amazon.com/images/I/31BVC4f4vdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4 text-center">
@@ -139,8 +139,8 @@ const mugs = () => {
               <a className="block object-center relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
-                  src="https://m.media-amazon.com/images/I/41j73+Bq0cL._AC_UL600_FMwebp_QL65_.jpg"
+                  className="m-auto md:m-0 block object-center"
+                  src="https://m.media-amazon.com/images/I/31BVC4f4vdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4 text-center">
