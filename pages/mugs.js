@@ -4,7 +4,7 @@ import Footer from "../components/Footer";
 
 const mugs = () => {
   return (
-    <div>
+    <>
       <Navbar />
       <div className="text-gray-600 body-font">
         <div className="container px-5 py-24 mx-auto">
@@ -157,7 +157,7 @@ const mugs = () => {
         </div>
       </div>
       <Footer />
-    </div>
+    </>
   );
 };
 
