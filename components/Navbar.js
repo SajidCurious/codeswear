@@ -13,7 +13,7 @@ const Navbar = () => {
         </Link>
       </div>
       <div className="nav">
-        <ul className="flex space-x-2 font-semibold md:text-md">
+        <ul className="flex space-x-6 font-bold md:text-md">
           <Link href={"/tshirts"}>
             <li>Tshirts</li>
           </Link>
