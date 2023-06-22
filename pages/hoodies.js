@@ -14,7 +14,7 @@ const hoodies = () => {
                 <img
                   alt="ecommerce"
                   className="m-auto md:m-0 h-[36vh] lg:pl-24"
-                  src="https://m.media-amazon.com/images/I/61Mw4M+mHwL._AC_UL600_FMwebp_QL65_.jpg"
+                  src="https://m.media-amazon.com/images/I/61xcAzDvvdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4 text-center">
@@ -32,7 +32,7 @@ const hoodies = () => {
                 <img
                   alt="ecommerce"
                   className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
-                  src="https://m.media-amazon.com/images/I/61Mw4M+mHwL._AC_UL600_FMwebp_QL65_.jpg"
+                  src="https://m.media-amazon.com/images/I/61xcAzDvvdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4 text-center">
@@ -50,7 +50,7 @@ const hoodies = () => {
                 <img
                   alt="ecommerce"
                   className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
-                  src="https://m.media-amazon.com/images/I/61Mw4M+mHwL._AC_UL600_FMwebp_QL65_.jpg"
+                  src="https://m.media-amazon.com/images/I/61xcAzDvvdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4 text-center">
@@ -68,7 +68,7 @@ const hoodies = () => {
                 <img
                   alt="ecommerce"
                   className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
-                  src="https://m.media-amazon.com/images/I/61Mw4M+mHwL._AC_UL600_FMwebp_QL65_.jpg"
+                  src="https://m.media-amazon.com/images/I/61xcAzDvvdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4 text-center">
@@ -86,7 +86,7 @@ const hoodies = () => {
                 <img
                   alt="ecommerce"
                   className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
-                  src="https://m.media-amazon.com/images/I/61Mw4M+mHwL._AC_UL600_FMwebp_QL65_.jpg"
+                  src="https://m.media-amazon.com/images/I/61xcAzDvvdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4 text-center">
@@ -104,7 +104,7 @@ const hoodies = () => {
                 <img
                   alt="ecommerce"
                   className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
-                  src="https://m.media-amazon.com/images/I/61Mw4M+mHwL._AC_UL600_FMwebp_QL65_.jpg"
+                  src="https://m.media-amazon.com/images/I/61xcAzDvvdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4 text-center">
@@ -122,7 +122,7 @@ const hoodies = () => {
                 <img
                   alt="ecommerce"
                   className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
-                  src="https://m.media-amazon.com/images/I/61Mw4M+mHwL._AC_UL600_FMwebp_QL65_.jpg"
+                  src="https://m.media-amazon.com/images/I/61xcAzDvvdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4 text-center">
@@ -140,7 +140,7 @@ const hoodies = () => {
                 <img
                   alt="ecommerce"
                   className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
-                  src="https://m.media-amazon.com/images/I/61Mw4M+mHwL._AC_UL600_FMwebp_QL65_.jpg"
+                  src="https://m.media-amazon.com/images/I/61xcAzDvvdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
               <div className="mt-4 text-center">
