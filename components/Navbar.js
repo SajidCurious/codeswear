@@ -1,6 +1,6 @@
 import Link from "next/link";
 import React from "react";
-import { AiOutlineShoppingCart } from "react-icons/ai";
+import { AiOutlineShoppingCart, AiFillCloseCircle } from "react-icons/ai";
 
 const Navbar = () => {
   return (
@@ -30,6 +30,12 @@ const Navbar = () => {
       </div>
       <div className="cart absolute right-0 mx-2 ">
         <AiOutlineShoppingCart className="text-xl md:text-3xl" />
+      </div>
+      <div className="sidebar absolute top-0 right-0 bg-pink-100 p-10">
+        <h2 className="font-bold text-xl">Shopping Cart</h2>
+        <span>
+          <AiFillCloseCircle />
+        </span>
       </div>
     </div>
   );
