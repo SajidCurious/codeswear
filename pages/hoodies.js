@@ -7,13 +7,13 @@ const hoodies = () => {
     <>
       <Navbar />
       <div className="text-gray-600 body-font">
-        <div className="container px-5 py-24 mx-auto">
+        <div className="container px-5 py-20 mx-auto">
           <div className="flex flex-wrap -m-4 mx-auto ">
             <div className="lg:w-1/4 md:w-1/2 p-4 w-full shadow-lg">
               <a className="block object-center relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] lg:pl-24"
+                  className="m-auto md:m-0 h-[36vh] lg:pl-20"
                   src="https://m.media-amazon.com/images/I/61xcAzDvvdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
@@ -31,7 +31,7 @@ const hoodies = () => {
               <a className="block object-center relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
+                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-20"
                   src="https://m.media-amazon.com/images/I/61xcAzDvvdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
@@ -49,7 +49,7 @@ const hoodies = () => {
               <a className="block object-center relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
+                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-20"
                   src="https://m.media-amazon.com/images/I/61xcAzDvvdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
@@ -67,7 +67,7 @@ const hoodies = () => {
               <a className="block object-center relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
+                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-20"
                   src="https://m.media-amazon.com/images/I/61xcAzDvvdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
@@ -85,7 +85,7 @@ const hoodies = () => {
               <a className="block object-center relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
+                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-20"
                   src="https://m.media-amazon.com/images/I/61xcAzDvvdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
@@ -103,7 +103,7 @@ const hoodies = () => {
               <a className="block object-center relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
+                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-20"
                   src="https://m.media-amazon.com/images/I/61xcAzDvvdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
@@ -121,7 +121,7 @@ const hoodies = () => {
               <a className="block object-center relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
+                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-20"
                   src="https://m.media-amazon.com/images/I/61xcAzDvvdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
@@ -139,7 +139,7 @@ const hoodies = () => {
               <a className="block object-center relative rounded overflow-hidden">
                 <img
                   alt="ecommerce"
-                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-24"
+                  className="m-auto md:m-0 h-[36vh] block object-center lg:pl-20"
                   src="https://m.media-amazon.com/images/I/61xcAzDvvdL._AC_UL600_FMwebp_QL65_.jpg"
                 />
               </a>
