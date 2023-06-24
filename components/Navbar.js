@@ -1,8 +1,12 @@
 import Link from "next/link";
 import React from "react";
+// import { useRef } from "react";
 import { AiOutlineShoppingCart, AiFillCloseCircle } from "react-icons/ai";
 
 const Navbar = () => {
+  const toggleCart = () => {};
+
+  // const ref = useRef();
   return (
     <div className="py-2 flex flex-col md:flex-row items-center md:justify-start">
       <div className="logo">
@@ -31,11 +35,19 @@ const Navbar = () => {
       <div className="cart absolute right-0 mx-2 ">
         <AiOutlineShoppingCart className="text-xl md:text-3xl" />
       </div>
-      <div className="sidebar absolute top-0 right-0 bg-pink-100 p-10">
+      <div className="sidebar absolute top-0 right-0 bg-pink-100 p-10 transform transition-transform translate-x-full">
         <h2 className="font-bold text-xl">Shopping Cart</h2>
-        <span>
+        <span
+          onClick={toggleCart}
+          className="absolute top-2 right-2 cursor-pointer"
+        >
           <AiFillCloseCircle />
         </span>
+        <ol>
+          <li>
+            <span>Tshirt - Wear the code</span>
+          </li>
+        </ol>
       </div>
     </div>
   );
